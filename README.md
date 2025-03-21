@@ -7,7 +7,7 @@ This is my personal portfolio website, showcasing my skills, experience, and pro
 ---
 
 ## 📌 **About This Repository**  
-This repository contains the source code for my portfolio website. It is built using **HTML, CSS (Bootstrap), and simple JavaScript** to present my professional profile in an elegant and responsive manner.  
+This repository contains the source code for my portfolio website. It is built using **HTML and CSS (Bootstrap)** to present my professional profile in an elegant and responsive manner.  
 
 ## 🚀 **Features**  
 ✅ Responsive design with **Bootstrap**  
